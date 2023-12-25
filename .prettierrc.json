@@ -1,0 +1,17 @@
+{
+  "arrayBracketSpacing": true,
+  "arrowParens": "avoid",
+  "bracketSameLine": true,
+  "bracketSpacing": false,
+  "endOfLine": "auto",
+  "objectCurlySpacing": true,
+  "printWidth": 80,
+  "semi": true,
+  "singleQuote": false,
+  "spaceBeforeFunctionParen": true,
+  "spaceUnaryOps": true,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "ignorePatterns": ["/.eslintrc"]
+}
